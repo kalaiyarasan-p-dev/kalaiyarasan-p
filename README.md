@@ -25,10 +25,6 @@ A Flutter app to track income/expenses with category filters and charts.
 (உன் ServiceHub project-ஓட 2-3 lines description இங்க போடு)
 - 🔗 [View Code](https://github.com/kalaiyarasan-p/servicehub)
 
-### 3. JobTrack – Job Application Tracker
-(JobTrack-ஓட 2-3 lines description)
-- 🔗 [View Code](https://github.com/kalaiyarasan-p/jobtrack)
-
 ## 📫 Contact Me
 - Email: kalaiyarasan321@gmail.com
 - LinkedIn: [linkedin.com/in/kalaiyarasanp](https://linkedin.com/in/kalaiyarasanp)

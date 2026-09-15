@@ -22,7 +22,10 @@ A Flutter app to track income/expenses with category filters and charts.
 - 🔗 [View Code](https://github.com/kalaiyarasan-p/expenseflow)
 
 ### 2. ServiceHub – Service Request & Booking App
-(உன் ServiceHub project-ஓட 2-3 lines description இங்க போடு)
+A Flutter + Firebase app for booking home services (AC repair, plumbing, 
+electrical, cleaning) with role-based access for customers and admins.
+- **Tech:** Flutter, Dart, Firebase (Auth & Firestore), Provider, Google Fonts, Material 3
+- **Features:** Google/Email login, service booking with area-based estimated time & extra charges, real-time booking status tracking, admin dashboard to manage bookings, cancellation with reason, smooth page transitions
 - 🔗 [View Code](https://github.com/kalaiyarasan-p/servicehub)
 
 ## 📫 Contact Me
